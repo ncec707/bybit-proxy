@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/funding", "dest": "/api/funding.js" }
+  ]
+}
